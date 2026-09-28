@@ -18,8 +18,8 @@ Each `.stl` is the raw mesh; each `.3mf` is the print-ready project file (mesh +
 
 ## 🎓 Project Context
 
-Built as part of **MECH 150: Introduction to Engineering Design and Innovation** at
-the University of Victoria.
+Built as part of **MECH 150: 3D Printing, Rapid Prototyping, and Design** at the
+University of Victoria.
 
 ## ⚠️ Academic Integrity Notice
 
